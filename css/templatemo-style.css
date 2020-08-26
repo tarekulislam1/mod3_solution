@@ -1,19 +1,4 @@
-/** 
-
-Cafe House Template
-
-http://www.templatemo.com/tm-466-cafe-house
-
-
-    
-COLOR CODES
-  Gold: #c79c60;
-*/
-
-/** Preloader 
-* https://ihatetomatoes.net/create-custom-preloading-screen/
-*/
-#loader-wrapper {
+/*#loader-wrapper {
     position: fixed;
     top: 0;
     left: 0;
@@ -33,8 +18,8 @@ COLOR CODES
     border: 3px solid transparent;
     border-top-color: #3498db;
 
-    -webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
-    animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+    -webkit-animation: spin 2s linear infinite; 
+    animation: spin 2s linear infinite; 
 
     z-index: 1001;
 }
@@ -49,8 +34,8 @@ COLOR CODES
     border: 3px solid transparent;
     border-top-color: #e74c3c;
 
-    -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
-    animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+    -webkit-animation: spin 3s linear infinite; 
+    animation: spin 3s linear infinite;
 }
 
 #loader:after {
@@ -64,9 +49,9 @@ COLOR CODES
     border: 3px solid transparent;
     border-top-color: #f9c922;
 
-    -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
-      animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
-}
+    -webkit-animation: spin 1.5s linear infinite; 
+      animation: spin 1.5s linear infinite;
+}*/
 
 @-webkit-keyframes spin {
     0%   { 
